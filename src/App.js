@@ -1,9 +1,10 @@
+import NavBar from "./componets/NavBar";
 
-
-function App() {
+function App() {  
   return (
     <div className="App">
-     
+
+<NavBar/>
     </div>
   );
 }
